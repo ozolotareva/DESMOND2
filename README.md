@@ -1,3 +1,3 @@
 # DESMOND2
-unsupervised patient stratification method
+Unsupervised patient stratification method, renamed to UnPaSt:
 https://github.com/ozolotareva/UnPaSt
